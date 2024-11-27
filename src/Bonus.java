@@ -60,3 +60,5 @@ public class Bonus {
         }
     }
 }
+// Hashset was een slechte keuze omdat er in hashsets geen dubbele waardes kunnen staan.
+// Hierdoor zijn er minder antwoord mogelijkheden.
