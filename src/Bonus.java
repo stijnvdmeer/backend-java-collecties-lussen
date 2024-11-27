@@ -62,3 +62,5 @@ public class Bonus {
 }
 // Hashset was een slechte keuze omdat er in hashsets geen dubbele waardes kunnen staan.
 // Hierdoor zijn er minder antwoord mogelijkheden.
+// Aangezien wij niet perzee hoeven te weten waar een entry zit is een hashmap ook niet toepasselijk.
+// Het beste is dus om een arrayList te gebruiken.
